@@ -55,7 +55,7 @@ print(mean(saveArray))
 
 The average amount for 35 students, 2:1 is $233
 
-The amt of money Dr. J should pay is $37
+The amt of money Dr. J should pay is $4.00
 
-The number of students for break even at 2:1 is 21
+The number of students for break even at 2:1 is 28
 
